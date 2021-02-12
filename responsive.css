@@ -405,12 +405,19 @@ html {
     padding-top: 0;
 }
   
+  .pick-up-contents-list{
+    flex-direction: column;
+  }
+  
   .pick-up-contents-list > .pick-up-contents-cassette{
     text-align: center;
     width: 100%;
   }
 }
 
+.pick-up-contents-media-text {
+  margin-bottom: 15px;
+}
 
 
 
